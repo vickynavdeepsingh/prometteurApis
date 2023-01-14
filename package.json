@@ -1,0 +1,29 @@
+{
+  "name": "prometteurapis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickynavdeepsingh/prometteurApis.git"
+  },
+  "author": "vicky singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vickynavdeepsingh/prometteurApis/issues"
+  },
+  "homepage": "https://github.com/vickynavdeepsingh/prometteurApis#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "email-validator": "^2.0.4",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20"
+  }
+}
